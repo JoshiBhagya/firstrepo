@@ -1,1 +1,1 @@
-This is Mypage
+This is Mypage now i am learning the Git command
